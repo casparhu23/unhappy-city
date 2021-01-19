@@ -1,5 +1,5 @@
 # Unhappy City 
-## This is a data visualization project for recommendations to improve the overall health and happiness of South Bend’s residents
+## This is a data storytelling project for recommendations to improve the overall health and happiness of South Bend’s residents
 
 ### Please feel free to click the link below
 
